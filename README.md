@@ -1,2 +1,3 @@
-# redhat-italy.github.io
-Italy's PA Hackaton website
+# Red Hat Openshift Container Platform per Hackaton PA
+Benvenuto, di seguito troverai tutte le istruzioni necessarie per utilizzare la piattaforma messa a disposizione da Red Hat Italia in cloud!
+
