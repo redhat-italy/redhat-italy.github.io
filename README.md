@@ -5,7 +5,7 @@ Benvenuto, di seguito troverai tutte le istruzioni necessarie per utilizzare la 
 
 Innanzitutto, contattaci sul canale slack #tech-redhat-openshift, comunicaci il tuo username su github.com e ti aggiungeremo all'organization creata ad-hoc per gestire l'autenticazione alla piattaforma Openshift in cloud.
 
-Dopo averti abilitato naviga pure all'indirizzo https://openshift-master.justcodeon.it ed accedi con la tua utenza github!
+Dopo averti abilitato naviga pure all'indirizzo [https://openshift-master.justcodeon.it](https://openshift-master.justcodeon.it) ed accedi con la tua utenza github!
 
 Inizia pure a creare il tuo primo progetto e ricorda che hai a disposizione i seguenti template pre-configurati nella piattaforma:
 1. [Ruby](https://github.com/redhat-italy/ruby-ex)
