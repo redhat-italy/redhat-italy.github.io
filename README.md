@@ -20,6 +20,8 @@ Hai inoltre già a disposizione uno SPID di test pronto all'uso! Di seguito trov
 * [https://identityserver-spidtest.apps.justcodeon.it](https://identityserver-spidtest.apps.justcodeon.it)
 * [https://backoffice-spidtest.apps.justcodeon.it](https://backoffice-spidtest.apps.justcodeon.it)
 
+Consulta la [guida](docs/OCPWorkstationSetup.pdf "Guida OpenShift") dettagliata per la configurazione della vostra macchina locale e il vostro ambiente di sviluppo per utilizzare OpenShift
+
 Hai altre domande? Chiedi ai mentor Red Hat presenti nelle sedi oppure inviaci un messaggio sul canale slack: #tech-redhat-openshift
 
 Ti aspettiamo!
